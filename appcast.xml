@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Compresy</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sun, 04 Oct 2026 21:17:48 +0600</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Klarytea/compresy-releases/releases/download/v1.0.2/Compresy-1.0.2.zip" length="13360998" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
