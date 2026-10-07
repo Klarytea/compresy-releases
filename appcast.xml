@@ -4,6 +4,14 @@
         <title>Compresy</title>
         <item>
             <title>1.0</title>
+            <pubDate>Wed, 07 Oct 2026 10:24:51 +0600</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Klarytea/compresy-releases/releases/download/v1.0.5/Compresy-1.0.5.zip" length="13862619" type="application/octet-stream" sparkle:edSignature="qHo2Q34ZoPPI1ouXbXeKcJJVCU7IvRq7KmCS/mIUH93ypWkXl0fR7SXSYo1WEEQ3Aw5ZgsaAJxeb5kIa+YDoBA=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Tue, 06 Oct 2026 19:03:05 +0600</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Klarytea/compresy-releases/releases/download/v1.0.3/Compresy-1.0.3.zip" length="13507772" type="application/octet-stream" sparkle:edSignature="rKOIFaRSO3l5pkmUmqLIB++zxVPtpa8OHUfqB4KbHF7SXf8zlMjk0Gd33sy4UsVr6n8mAjg3kofj+CZla7AoDQ=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Sun, 04 Oct 2026 21:17:48 +0600</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Klarytea/compresy-releases/releases/download/v1.0.2/Compresy-1.0.2.zip" length="13360998" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
